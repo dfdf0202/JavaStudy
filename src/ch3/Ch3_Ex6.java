@@ -18,7 +18,7 @@ public class Ch3_Ex6 {
 		
 		if( '0' <= ch && ch <= '9') {
 			System.out.println("입력하신 문자는 숫자입니다.");
-		}
+		} 
 		
 		if( ('a' <= ch && ch <= 'z') || ('A' <= ch && ch <= 'Z') ) {
 			System.out.println("입력하신 문자는 영문자 입니다.");

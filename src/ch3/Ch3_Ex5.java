@@ -14,7 +14,7 @@ public class Ch3_Ex5 {
 		// (3142) / 1000f -----> 3.142
 		
 		// Math.round() 사용 법
-		
+		 
 		pi = 3.141592f;
 		shortPi = (float) (Math.round(pi * 1000) / 1000.0);
 		System.out.println(shortPi);
